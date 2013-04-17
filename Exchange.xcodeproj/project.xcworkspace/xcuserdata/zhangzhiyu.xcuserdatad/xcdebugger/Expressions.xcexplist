@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ExchangeAppDelegate changeController]:ExchangeAppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.responseData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CurrencyExchangeViewController exchange:]:CurrencyExchangeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "exchange_munber.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CurrencyExchangeViewController parser:didStartElement:namespaceURI:qualifiedName:attributes:]:CurrencyExchangeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "from_currency_button.titleLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
